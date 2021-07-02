@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 👨‍🚒 关于我
 
 - 🐶 + 📷 + 🎹 + 🚲
-- 🎍 [个人博客](https://www.baidu.com)
+- 🎍 [个人博客](https://censwin.github.io/myblog/)
 - 📫 censwin@foxmail.com
 
 
