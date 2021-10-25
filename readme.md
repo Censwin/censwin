@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 - 📃  [学习笔记](https://github.com/Censwin/relearnjs)
 - 🎵  [react移动端音乐网站](http://42.194.142.92)
+- 🧰  [beetle-ui](https://github.com/Censwin/beetle-ui)
 
