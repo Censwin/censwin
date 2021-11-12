@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 - 🐶  +  📷  +  🎹  +  🚲
 - 🎍  [个人博客](https://censwin.github.io/myblog/)
-- 📫  kyletsang@foxmail.com
-- 📮  censwin@gmail.com
+- 🔡  [掘金](https://juejin.cn/user/272334615753614/posts)
+- 📫  censwin@gmail.com
 
 
 ### ☀️ 我的项目
