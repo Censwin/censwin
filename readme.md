@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🐶  +  📷  +  🎹  +  🚲
 - 🎍  [个人博客](https://censwin.github.io/myblog/)
-- 🔡  [掘金](https://juejin.cn/user/272334615753614/posts)
+- 🔡  [稀土掘金](https://juejin.cn/user/272334615753614/posts)
 - 📫  censwin@gmail.com
 
 
