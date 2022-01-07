@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ### ☀️ 我的项目
 
 - 📃  [学习笔记](https://github.com/Censwin/relearnjs)
-- 🎵  [react移动端音乐网站](https://censwin.github.io/melodia-ts)
+- 🎵  [移动端音乐平台](https://censwin.github.io/melodia-ts)
 - 🧰  [beetle-ui](https://github.com/Censwin/beetle-ui)
 
