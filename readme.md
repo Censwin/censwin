@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Censwin&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
-### 👨‍🚒 关于我
+### 👨‍🚒 About me
 
 - 🐶  +  📷  +  🎹  +  🚲
 - 🎍  [my blog](https://censwin.github.io/myblog/)
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫  censwin@gmail.com
 
 
-### ☀️ 我的项目
+### ☀️ Project
 
 - 🧰  [beetle-ui](https://github.com/Censwin/beetle-ui)
 - 🎵  [Music App](https://github.com/Censwin/melodia-ts)
