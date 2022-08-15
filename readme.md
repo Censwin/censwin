@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 ### 👨‍🚒 关于我
 
 - 🐶  +  📷  +  🎹  +  🚲
-- 🎍  [个人博客](https://censwin.github.io/myblog/)
-- 🔡  [稀土掘金](https://juejin.cn/user/272334615753614/posts)
+- 🎍  [my blog](https://censwin.github.io/myblog/)
+- 🔡  [juejin](https://juejin.cn/user/272334615753614/posts)
 - 📫  censwin@gmail.com
 
 
 ### ☀️ 我的项目
 
 - 🧰  [beetle-ui](https://github.com/Censwin/beetle-ui)
-- 🎵  [移动端音乐平台](https://github.com/Censwin/melodia-ts)
-- 📃  [学习笔记](https://github.com/Censwin/relearnjs)
-
+- 🎵  [Music App](https://github.com/Censwin/melodia-ts)
