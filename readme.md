@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - 🐶  +  📷  +  🎹  +  🚲
 - 🎍  [my blog](https://censwin.github.io/myblog/)
-- 🔡  [juejin](https://juejin.cn/user/272334615753614/posts)
 - 📫  censwin@gmail.com
 
 
